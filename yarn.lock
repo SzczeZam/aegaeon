@@ -9460,6 +9460,11 @@ remove-trailing-separator@^1.0.1:
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"
   integrity sha1-wkvOKig62tW8P1jg1IJJuSN52O8=
 
+renature@^0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/renature/-/renature-0.11.1.tgz#cc2715fd9dd8cf4be1c8b13f2e779be42058b510"
+  integrity sha512-Y99k4uIeN9zvH224Yg1NFzrVcGSXSxMf8WSJjjOU6Ld7IL8rPRI91R3UoJReRwF6+em753YKXHsYa01Jxp1JLw==
+
 renderkid@^2.0.4:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/renderkid/-/renderkid-2.0.5.tgz#483b1ac59c6601ab30a7a596a5965cabccfdd0a5"

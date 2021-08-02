@@ -3,7 +3,6 @@ import Search from "./components/Search";
 import ResultsCard from "./components/ResultsCard";
 
 function App() {
-  const [renderCount, setRenderCount] = useState(0);
   const [data, setData] = useState([]);
   const [result, setResult] = useState("default");
 
