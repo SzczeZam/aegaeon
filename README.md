@@ -1,4 +1,4 @@
-# CODENAME: aegaeon
+# CODENAME: aegaeon 🌩
 An application that helps users plan based on the weather.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
